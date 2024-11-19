@@ -12,9 +12,7 @@
 
 namespace hlab
 {
-	// 일반적으로는 헤더파일에서 using namespace std를 사용하지 않습니다.
-	// 여기서는 강의 동영상에 녹화되는 코드 길이를 줄이기 위해서 사용하였습니다.
-	// 예: std::vector -> vector
+
 	using namespace std;
 	using namespace glm;
 
