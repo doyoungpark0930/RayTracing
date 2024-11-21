@@ -21,7 +21,7 @@ Ray를 재귀 형식으로 쏘아서, 반사와 굴절 나타냄<br>
 
 caustic ball을 표현하는데 PhotonMapping을 이용하였으나, 간단하게만 구현 하였음.<br>
 
-[PhotonMapping Idea]
+## [PhotonMapping Idea]
 1. 바닥에 시점 ray를 쏘았을 때, 그 맞은 지점에서 각 유리구슬로 일정 빛의 세기를 갖고 있는 광자를 여러개 쏜다
 2. 광자는 반드시 구 안 쪽을 지나가도록 설정한다(어차피 광자가 구 바깥으로 나가면 사라지는 것과 차이가 없기 때문)
 3. Light는 매우 먼 거리에 설정한다.(Directional Light의 효과를 내기 위함)
