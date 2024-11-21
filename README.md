@@ -1,5 +1,5 @@
-[RayTracing을 이용한 큐브매핑 및 간단한 PhotonMapping]
-개발환경 : WindowAPI, visual Studio
+#[RayTracing을 이용한 큐브매핑 및 간단한 PhotonMapping]<br>
+개발환경 : WindowAPI, visual Studio, GLM함수 사용<br>
 
 <img width="958" alt="photonMapping" src="https://github.com/user-attachments/assets/d0bc9637-de89-4691-9b05-2cace86d0780">
 
